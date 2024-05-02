@@ -1,3 +1,4 @@
+/*
 console.log("hello world")
 console.log("deneme")
 console.log("deneme")
@@ -45,3 +46,5 @@ var server = http.createServer((req ,res ) =>{
 server.listen(3000, () => {
     console.log("node.js server at port 3000");
 })
+
+*/
